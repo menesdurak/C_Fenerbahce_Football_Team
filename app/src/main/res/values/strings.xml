@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Fenerbahce_Football_Team</string>
+    <string name="altay_bayindir">Altay Bayındır</string>
+    <string name="lincoln_henrique">Lincoln Henrique</string>
+    <string name="attila_szalai">Attila Szalai</string>
+    <string name="samet_akaydin">Samet Akaydin</string>
+    <string name="brigh_osayi_samuel">Bright Osayi Samuel</string>
+    <string name="willian_arao">Willian Arao</string>
+    <string name="ismail_yuksek">İsmail Yüksek</string>
+    <string name="arda_guler">Arda Güler</string>
+    <string name="diego_rossi">Diego Rossi</string>
+    <string name="emre_mor">Emre Mor</string>
+    <string name="enner_valencia">Enner Valencia</string>
+
+    <string name="goalkeeper">Goalkeeper</string>
+    <string name="defence">Defence</string>
+    <string name="midfielder">Midfielder</string>
+    <string name="forward">Forward</string>
 </resources>
